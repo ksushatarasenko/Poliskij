@@ -17,12 +17,18 @@
 .img_pravila{
     max-width: 700px;
 }
+img{
+    margin: 1% 10%;
+}
 /* ============= */
 .red{
     color: red;
 }
 .green{
     color: green;
+}
+.blue{
+    color: blue;
 }
 /* ============= */
 .text{
@@ -37,3 +43,4 @@ td{
     font-size: 24px;
     width: 300px;
 }
+/* ======== */

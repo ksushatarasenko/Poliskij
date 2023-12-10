@@ -1,0 +1,39 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    padding-bottom: 2%;
+}
+
+.wrapper{
+    max-width: 1200px;
+    margin: 0 auto;
+}
+.content-title{
+    margin: 3% auto;
+    text-align: center;
+}
+
+.img_pravila{
+    max-width: 700px;
+}
+/* ============= */
+.red{
+    color: red;
+}
+.green{
+    color: green;
+}
+/* ============= */
+.text{
+    font-size: 20px;
+}
+.p{
+    margin: 2% 0;
+    font-size: 24px;
+}
+/* ===== TABLE ======= */
+td{
+    font-size: 24px;
+    width: 300px;
+}

@@ -148,16 +148,21 @@ td{
 /* MEDIA */
 
 @media (max-width: 768px) {
-   .wrapper{
+   .wrapper,main{
     max-width: 700px;
     margin: 1% auto;
     padding: 2%;
 }
    .prezent ,
    .video  {
-      width: 400px; 
+      width: 300px; 
       height: 250px;
       padding: 1%;
+   }
+   .prezent>iframe ,
+   .video>iframe  {
+      width: 90%;
+      padding: 2%;
    }
 
    .two, .three {
